@@ -40,15 +40,15 @@ body_classes: page-project
 
         <div class="content">{{ content }}</div>
 
-        {% if page.date %}
+        {% if page.year %}
           <div class="project-date">
-            <strong>Date </strong><span>{{ page.date | date_to_long_string }}</span>
+            <strong>Jahr </strong><span>{{ page.year }}</span>
           </div>
         {% endif %}
 
-        {% if page.client %}
+        {% if page.format %}
           <div class="project-client">
-            <strong>Client </strong><span>{{ page.client }}</span>
+            <strong>Format </strong><span>{{ page.format }}</span>
           </div>
         {% endif %}
 

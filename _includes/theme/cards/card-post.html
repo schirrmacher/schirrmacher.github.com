@@ -9,7 +9,7 @@
 {% assign categories = include.categories %}
 {% assign style = include.style | default: "column" %}
 {% assign show_read_more = include.show_read_more %}
-{% assign client = include.client %}
+{% assign format = include.format %}
 {% assign thumbnail_size = include.thumbnail_size %}
 
 <div class="card card-post card-{{ style }} {% if thumbnail %}card-has-thumbnail{% endif %} {% if icon or fa_icon %}card-has-icon{% endif %}">
@@ -37,7 +37,7 @@
 
         {% if date %}
           <div class="card-date">
-            <span class="post-date-date">{{ date | date_to_long_string }}</span>
+            <span class="post-date-date">{{ date }}</span>
           </div>
         {% endif %}
 

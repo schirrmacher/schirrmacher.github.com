@@ -1,13 +1,13 @@
 .heading {
   .heading-heading {
     h1 {
-      font-size: 36px;
+      font-size: 30px;
       letter-spacing: -1px;
       line-height: 1.1;
       font-weight: 700;
       font-family: $font-family-heading;
       @include media-breakpoint-up(md) {
-        font-size: 86px;
+        font-size: 30px;
         line-height: 1;
         width: 80%;
         letter-spacing: -2px;
@@ -28,7 +28,7 @@
       font-family: $font-family-base;
       color: var(--color-base-text-2);
       @include media-breakpoint-up(md) {
-        font-size: 26px;
+        font-size: 18px;
         letter-spacing: 1px;
         line-height: 1.4;
       }
