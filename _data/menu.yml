@@ -2,11 +2,14 @@ main:
   - name: Übersicht
     url: /
     weight: 1
+  - name: Ausstellungen
+    url: /ausstellungen/
+    weight: 2
   - name: ich ich ich
     url: /ichichichichichichichichichich/
     weight: 3
-  - name: Kontaktaufnahme
-    url: /contact/
+  - name: Kontakt
+    url: /kontakt/
     weight: 4
 
 footer_secondary:

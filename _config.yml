@@ -17,19 +17,22 @@ paginate: 12
 paginate_path: "/dinge"
 
 collections:
-  projects:
+  dinge:
     output: true
     permalink: /dinge/:path/
+  ausstellungen:
+    output: true
+    permalink: /ausstellungen/:path/
 
 defaults:
   - scope:
       path: ""
-      type: projects
+      type: dinge
     values:
       layout: project
   - scope:
-      path: "posts"
-      type: posts
+      path: "ausstellungen"
+      type: ausstellungen
     values:
       layout: post
       weight: 999
