@@ -7,7 +7,7 @@ meta_description: "Beruflich beschütze ich IT Systeme."
 meta_title: Marvin Schirrmacher
 subscribe: false
 
-projects:
+dinge:
   heading: ""
   sub_heading: ""
   limit: 120
