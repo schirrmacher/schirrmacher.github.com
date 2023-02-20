@@ -21,15 +21,4 @@
   </div>
   {% endif %}
   
-  {% if description %}
-    <div class="heading-description">
-      <p>{{ description }}</p>
-    </div>
-  {% endif %}
-
-  {% if image and image != "" %}
-    <div class="heading-image">
-      <img {% if title %} alt="{{ title }}" {% endif %} src="{{ image | relative_url }}"/>
-    </div>
-  {% endif %}
 </div>

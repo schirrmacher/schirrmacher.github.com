@@ -1,6 +1,6 @@
 ---
 layout: default
-body_classes: page-home
+body_classes: page-blog
 ---
 
 <div class="section">
@@ -21,7 +21,6 @@ body_classes: page-home
 <div class="section pt-0">
   <div class="container">
     <div class="row">
-     
       {% for card in cards limit: limit %}
       <div
         class="col-12 col-md-6 mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
@@ -39,18 +38,4 @@ body_classes: page-home
     </div>
   </div>
 </div>
-{% endif %}
-
-{% if site.mailchimp.form_action_url %}
-{% if page.subscribe %}
-  <div class="section bg-base-bg-2">
-    <div class="container">
-      <div class="row">
-        <div class="col-12"></div>
-        {% include framework/blocks/components/subscribe.html %}
-        </div>
-      </div>
-    </div>
-  </div>
-{% endif %}
 {% endif %}

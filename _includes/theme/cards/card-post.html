@@ -5,7 +5,7 @@
 {% assign fa_icon = include.fa_icon %}
 {% assign url = include.url %}
 {% assign date = include.date %}
-{% assign authors = include.authors %}
+{% assign location = include.location %}
 {% assign categories = include.categories %}
 {% assign style = include.style | default: "column" %}
 {% assign show_read_more = include.show_read_more %}
@@ -21,23 +21,12 @@
   {% endif %}
 
   <div class="card-content">
-    {% if authors or date %}
+    {% if date %}
       <div class="card-meta">
-
-        {% if authors %}
-          <div class="card-authors">
-            {% for author in authors %}
-              {% include framework/blocks/components/author.html 
-                author=author 
-                style='inline'
-              %}
-            {% endfor %}
-          </div>
-        {% endif %}
 
         {% if date %}
           <div class="card-date">
-            <span class="post-date-date">{{ date }}</span>
+            <span class="post-date-date">{{ date }} {{ location }}</span>
           </div>
         {% endif %}
 
@@ -50,23 +39,9 @@
       </h3>
     </div>
 
-    {% if client %}
-      <div class="card-client">
-        {{ client }}
-      </div>
-    {% endif %}
-
     {% if description %}
       <div class="card-description">
         <p>{{ description }}</p>
-      </div>
-    {% endif %}
-
-    {% if categories %}
-      <div class="card-categories mt-auto">
-        {% for category in categories %}
-          <a class="card-category" href="{{ "/category/" | relative_url }}{{ category | slugify }}">{{ category }}</a>
-        {% endfor %}
       </div>
     {% endif %}
 

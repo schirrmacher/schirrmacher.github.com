@@ -29,22 +29,21 @@
 
     {% for card in cards limit: limit %}
       {% case collection %}
-        {% when 'posts' %}
+        {% when 'ausstellungen' %}
           <div class="col-12 col-md-6 {{ columns }} mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
             {% include theme/cards/card-post.html
               title=card.title 
               thumbnail=card.thumbnail
-              
+              location=card.location
               url=card.url 
             %}
           </div>
-        {% when 'projects' %}
+        {% when 'dinge' %}
           <div class="col-12 col-md-6 {{ columns }} mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
             {% include theme/cards/card-project.html
               title=card.title 
               description=card.description
               thumbnail=card.thumbnail
-              authors=card.authors
               categories=card.categories
               year=card.year
               url=card.url 
@@ -60,6 +59,7 @@
               title=card.title 
               description=card.description
               thumbnail=card.thumbnail
+              location=card.location
               url=card.url 
             %}
           </div>

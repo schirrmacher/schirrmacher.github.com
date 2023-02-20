@@ -1,10 +1,10 @@
 ---
-layout: basic
+layout: contact
 title: "Marvin Schirrmacher"
 date: false
 permalink: "/ichichichichichichichichichich/"
 description: ""
-image: "/assets/images/gen/projects/ich.jpg"
+image: false
 ---
 
 Ich bin 1992 in Hamm geboren, lebe in Köln und Dresden. Beruflich setze ich mich für die Sicherheit von IT Systemen ein.
