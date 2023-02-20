@@ -12,4 +12,7 @@ Input / Output bezeichnet die Art und Weise wie ein Computersystem mit seiner Um
 
 ![](/assets/images/gen/projects/input-output.jpg)
 ![](/assets/images/gen/projects/input-output2.jpg)
+![](/assets/images/gen/projects/input-output3.jpg)
+![](/assets/images/gen/projects/input-output4.jpg)
+![](/assets/images/gen/projects/input-output5.jpg)
 
