@@ -2,6 +2,7 @@
 {% assign description = include.description %}
 {% assign image = include.image %}
 {% assign icon = include.icon %}
+{% assign location = include.location %}
 {% assign fa_icon = include.fa_icon %}
 {% assign align = include.align | default: 'left' %}
 {% assign authors = include.authors %}
@@ -21,4 +22,9 @@
   </div>
   {% endif %}
   
+  {% if location %}
+  <br>
+  <div>{{ location }}</div>
+  {% endif %}
+
 </div>
