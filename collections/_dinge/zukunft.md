@@ -3,7 +3,7 @@ layout: project-right # alternative layouts: project, project-left, project-righ
 title: "Zukunft"
 description: false
 year: 2023
-weight: 3
+weight: 30
 thumbnail: "/assets/images/gen/projects/zukunft.jpg"
 image: "/assets/images/gen/projects/zukunft.jpg"
 categories: []

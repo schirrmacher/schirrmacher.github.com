@@ -1,7 +1,7 @@
 {% assign collection = include.collection %}
 {% assign cards = site[collection] %}
 {% assign limit = include.limit | default: nil %}
-{% assign sort_by = include.sort | default: 'date' %}
+{% assign sort_by = include.sort | default: 'weight' %}
 {% assign heading = include.heading %}
 {% assign sub_heading = include.sub_heading %}
 {% assign view_more_button_text = include.view_more_button_text | default: "View More" %}
