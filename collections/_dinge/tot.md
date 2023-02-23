@@ -4,12 +4,12 @@ title: "Tot"
 description: false
 year: 2023
 weight: 100
-thumbnail: "/assets/images/gen/projects/tot.jpg"
-image: "/assets/images/gen/projects/tot.jpg"
+thumbnail: "/assets/images/gen/tot.jpg"
+image: "/assets/images/gen/tot.jpg"
 categories: []
 format: "Installation 100 x 200cm"
 gallery:
-  - image: "/assets/images/gen/projects/tot.jpg"
+  - image: "/assets/images/gen/tot.jpg"
 ---
 
 Schöne goldene Ballons

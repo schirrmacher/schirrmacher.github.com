@@ -4,12 +4,12 @@ title: "Blatt"
 description: false
 year: 2022
 weight: 3
-thumbnail: "/assets/images/gen/projects/blatt.jpg"
-image: "/assets/images/gen/projects/blatt.jpg"
+thumbnail: "/assets/images/gen/blatt.jpg"
+image: "/assets/images/gen/blatt.jpg"
 categories: []
 format: "Öl auf Leinwand 70 x 50cm"
 gallery:
-  - image: "/assets/images/gen/projects/blatt.jpg"
+  - image: "/assets/images/gen/blatt.jpg"
 ---
 
 Einfach nur ein grünes Blatt.

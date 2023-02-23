@@ -35,7 +35,7 @@ defaults:
       type: ausstellungen
     values:
       layout: post
-      weight: 999
+      weight: 0
   - scope:
       path: "images"
     values:
@@ -94,10 +94,10 @@ fonts:
 
 logo:
   logo_text: "Marvin Schirrmacher"
-  logo_image: assets/images/gen/projects/about.jpg
-  logo_image_mobile: assets/images/gen/projects/about.jpg
-  logo_image_invert: assets/images/gen/projects/about.jpg
-  logo_image_invert_mobile: assets/images/gen/projects/about.jpg
+  logo_image: assets/images/gen/about.jpg
+  logo_image_mobile: assets/images/gen/about.jpg
+  logo_image_invert: assets/images/gen/about.jpg
+  logo_image_invert_mobile: assets/images/gen/about.jpg
   logo_image_desktop_height: "28px"
   logo_image_desktop_width: "28px"
   logo_image_mobile_height: "28px"

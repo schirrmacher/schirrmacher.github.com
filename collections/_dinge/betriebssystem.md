@@ -4,13 +4,13 @@ title: "Betriebssystem"
 description: false
 year: 2022
 weight: 3
-thumbnail: "/assets/images/gen/projects/betriebssystem.jpg"
-image: "/assets/images/gen/projects/betriebssystem.jpg"
+thumbnail: "/assets/images/gen/betriebssystem.jpg"
+image: "/assets/images/gen/betriebssystem.jpg"
 categories: []
 format: "Drucke auf DIN A4 Papier"
 gallery:
-  - image: "/assets/images/gen/projects/betriebssystem.jpg"
-  - image: "/assets/images/gen/projects/betriebssystem2.jpg"
+  - image: "/assets/images/gen/betriebssystem.jpg"
+  - image: "/assets/images/gen/betriebssystem2.jpg"
 ---
 
 When preparing my first exhibition, I wanted to create something visually appealing which reveals the hidden world of computing.

@@ -4,13 +4,13 @@ title: "Zukunft"
 description: false
 year: 2023
 weight: 30
-thumbnail: "/assets/images/gen/projects/zukunft.jpg"
-image: "/assets/images/gen/projects/zukunft.jpg"
+thumbnail: "/assets/images/gen/zukunft.jpg"
+image: "/assets/images/gen/zukunft.jpg"
 categories: []
 format: "Installation 100 x 200cm"
 gallery:
-  - image: "/assets/images/gen/projects/zukunft.jpg"
-  - image: "/assets/images/gen/projects/zukunft2.jpg"
+  - image: "/assets/images/gen/zukunft.jpg"
+  - image: "/assets/images/gen/zukunft2.jpg"
 ---
 
 Eine Leinwand mit Handgranate und einer langen Schnur.

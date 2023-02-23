@@ -4,12 +4,12 @@ title: "Dialog mit einer Maschine"
 description: false
 year: 2023
 weight: 100
-thumbnail: "/assets/images/gen/projects/dialog.jpg"
-image: "/assets/images/gen/projects/dialog.jpg"
+thumbnail: "/assets/images/gen/dialog.jpg"
+image: "/assets/images/gen/dialog.jpg"
 categories: []
 format: "Drucke auf Papier"
 gallery:
-  - image: "/assets/images/gen/projects/dialog.jpg"
+  - image: "/assets/images/gen/dialog.jpg"
 ---
 
 Folgende Konversation habe ich mit der künstlichen Intelligenz *ChatGPT* der Firma OpenAI geführt.

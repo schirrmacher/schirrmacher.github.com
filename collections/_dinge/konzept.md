@@ -4,13 +4,13 @@ title: "Konzept"
 description: false
 year: 2022
 weight: 3
-thumbnail: "/assets/images/gen/projects/konzept.jpg"
-image: "/assets/images/gen/projects/konzept.jpg"
+thumbnail: "/assets/images/gen/konzept.jpg"
+image: "/assets/images/gen/konzept.jpg"
 categories: []
 format: "Öl auf Leinwand 40 x 50cm"
 gallery:
-  - image: "/assets/images/gen/projects/konzept.jpg"
-  - image: "/assets/images/gen/projects/konzept2.jpg"
+  - image: "/assets/images/gen/konzept.jpg"
+  - image: "/assets/images/gen/konzept2.jpg"
 ---
 
 Ein Bild welches einen neuen Abschnitt einläutet. Inspieriert durch ein Wasserglas das seine Umwelt aufsaugt. Eine Verschmelzung zweier Kontextebenen. Der physische Strich auf der Leinwand verbindet sich mit dem Objektgegenstand des Bildes.

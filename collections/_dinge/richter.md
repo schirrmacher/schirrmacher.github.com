@@ -4,13 +4,13 @@ title: "Richter"
 description: false
 year: 2022
 weight: 3
-thumbnail: "/assets/images/gen/projects/richter.jpg"
-image: "/assets/images/gen/projects/richter.jpg"
+thumbnail: "/assets/images/gen/richter.jpg"
+image: "/assets/images/gen/richter.jpg"
 categories: []
 format: "Acryl auf Leinwand 90 x 60cm"
 gallery:
-  - image: "/assets/images/gen/projects/richter.jpg"
-  - image: "/assets/images/gen/projects/richter2.jpg"
+  - image: "/assets/images/gen/richter.jpg"
+  - image: "/assets/images/gen/richter2.jpg"
 ---
 
 Mein erstes Poträt. Orientiert an einem Foto das ich in der Nacht gemacht habe.
