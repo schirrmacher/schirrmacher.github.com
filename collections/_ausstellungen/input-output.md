@@ -8,7 +8,6 @@ thumbnail: "/assets/images/gen/input-output.jpg"
 image: "/assets/images/gen/input-output.jpg"
 ---
 
-Input / Output bezeichnet die Art und Weise wie ein Computersystem mit seiner Umwelt kommuniziert. Eine Ausstellung über Technologie, Ästhetik und Selbstreflexion.
 
 ![](/assets/images/gen/input-output.jpg)
 ![](/assets/images/gen/input-output2.jpg)
