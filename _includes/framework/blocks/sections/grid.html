@@ -10,10 +10,7 @@
 {% assign columns = include.columns | default: 3 %}
 
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
-{% assign cards = cards | sort: 'date' | 'reverse' %}
-{% if sort_by == 'weight' %}
-  {% assign cards = cards | sort: 'weight' %}
-{% endif %}
+{% assign cards = cards | sort: 'weight' %}
 
 {% if cards.size > 0 %}
   <div class="row grid">
