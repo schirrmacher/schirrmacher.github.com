@@ -10,6 +10,7 @@ categories: []
 format: "Öl auf Leinwand 70 x 50cm"
 gallery:
   - image: "/assets/images/gen/blatt.jpg"
+  - image: "/assets/images/gen/blatt2.jpg"
 ---
 
 Einfach nur ein grünes Blatt.

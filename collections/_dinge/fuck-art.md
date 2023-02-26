@@ -10,6 +10,6 @@ categories: []
 format: "Öl auf Leinwand 60 x 30 cm"
 gallery:
   - image: "/assets/images/gen/fuck-art.jpg"
+  - image: "/assets/images/gen/fuck-art2.jpg"
 ---
 
-Wen interressiert Kunst, wenn die Erde brennt?
