@@ -10,5 +10,6 @@ categories: []
 format: "Öl auf Leinwand 100 x 100cm"
 gallery:
   - image: "/assets/images/gen/vorstellung.jpg"
+  - image: "/assets/images/gen/vorstellung2.jpg"
 ---
 

@@ -10,5 +10,6 @@ categories: []
 format: "Öl auf Leinwand 50 x 40cm"
 gallery:
   - image: "/assets/images/gen/spitz.jpg"
+  - image: "/assets/images/gen/spitz2.jpg"
 ---
 
