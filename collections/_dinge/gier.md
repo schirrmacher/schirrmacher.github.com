@@ -13,4 +13,4 @@ gallery:
   - image: "/assets/images/gen/gier2.jpg"
 ---
 
-Eine Flüssigkeit die ich nach hunderten Versuchen mit einem 3D-Programm modelliert habe.
+Ich habe mich wochenlang mit dem Thema *Gier* beschäftigt. Dieses Bild ist daraus entstanden. Es zeigt einen Sog einer schimmernden Flüssigkeit die von einem markanten geradlinigen Strich ausgeht. Die Flüssigkeit habe ich mit einem 3D-Programm simuliert.

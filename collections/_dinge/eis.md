@@ -12,4 +12,4 @@ gallery:
   - image: "/assets/images/gen/eis.jpg"
 ---
 
-Ein Eis.
+Die Form habe ich über mehrere Wochen entwickelt. Initial  sollte das Eis eine digitale Grafik werden. Dann habe ich ein Gemälde daraus gemacht.

@@ -15,5 +15,4 @@ gallery:
 
 Dieser Klebstoff ist von einigen Klima-Aktivist:innen verwendet worden, um sich mit den Händen auf Straßen festzukleben.
 
-
 Der Verkauf des Produktes wurde verboten. Auf der Suche nach diesem Kleber konnte ich Restbestände finden. Der Kauf wurde mir nicht gestattet. Ich musste ihn klauen.

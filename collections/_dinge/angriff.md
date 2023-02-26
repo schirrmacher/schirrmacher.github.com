@@ -12,3 +12,4 @@ gallery:
   - image: "/assets/images/gen/angriff.jpg"
 ---
 
+Brutalität und Unterdrückung in einer quadratischen Form.

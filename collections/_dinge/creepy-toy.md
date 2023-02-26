@@ -15,4 +15,4 @@ gallery:
   - image: "/assets/images/gen/creepy-toy4.jpg"
 ---
 
- Ein süßes, kuschelliges und günstiges Spielzeug. Es kann eindeutig Gesichter erfassen.
+Ein süßes und kuscheliges Spielzeug. Es kann eindeutig Gesichter erfassen.

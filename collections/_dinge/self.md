@@ -13,4 +13,4 @@ gallery:
   - image: "/assets/images/gen/self2.jpg"
 ---
 
-Dieses Bild habe ich im Februar gemalt. Ich war an dem Coronavirus erkrankt.
+Dieses Bild habe ich im Februar gemalt. Ich war an dem Coronavirus erkrankt. Ein Krieg hat Europa erschüttert.

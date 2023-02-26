@@ -13,4 +13,4 @@ gallery:
   - image: "/assets/images/gen/robota2.jpg"
 ---
 
-Ein Selbstporträt das die Transformation zu Maschine darstellt.
+Ein Selbstporträt das meine Transformation zur Maschine darstellt.

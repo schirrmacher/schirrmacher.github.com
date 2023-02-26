@@ -13,3 +13,4 @@ gallery:
   - image: "/assets/images/gen/spitz2.jpg"
 ---
 
+Ein Porträt der österreichischen Ärztin *Patrizia Pontasch*.

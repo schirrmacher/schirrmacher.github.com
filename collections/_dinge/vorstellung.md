@@ -13,3 +13,4 @@ gallery:
   - image: "/assets/images/gen/vorstellung2.jpg"
 ---
 
+Dieses Bild stellt ein Gedankenexperiment dar. Wie oft haben wir eine klar Vorstellung eines Sachverhaltes. Wie unterscheidet sich dieser von der Realität? Was macht diese Differenz mit uns?

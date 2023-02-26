@@ -13,4 +13,4 @@ gallery:
   - image: "/assets/images/gen/konzept2.jpg"
 ---
 
-Ein Bild welches einen neuen Abschnitt einläutet. Inspieriert durch ein Wasserglas das seine Umwelt aufsaugt. Eine Verschmelzung zweier Kontextebenen. Der physische Strich auf der Leinwand verbindet sich mit dem Objektgegenstand des Bildes.
+Ein Bild das einen neuen Abschnitt einläutet. Inspiriert durch ein Wasserglas das seine Umwelt aufsaugt. Eine Verschmelzung zweier Kontextebenen. Der physische Strich auf der Leinwand verbindet sich mit dem Objektgegenstand des Bildes.

@@ -15,6 +15,7 @@ gallery:
   - image: "/assets/images/gen/beobachtung3.jpg"
 ---
 
-Eine Installation mit zwei Seiten. Beobachte dich und refklektiere. 
+Eine Installation mit zwei Seiten. Beobachte dich und reflektiere. 
 Wie viele Ideen hast du verloren? Wie viele Konversationen? Wie viel Zeit hast du verstrichen?
-Werde beobachtet.
+
+Am Ende wirst du merken, dass du beobachtet wurdest. Wie fühlst du dich?
