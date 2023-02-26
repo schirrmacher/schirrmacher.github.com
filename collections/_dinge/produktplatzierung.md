@@ -10,5 +10,6 @@ categories: []
 format: "Acryl auf Leinwand 30 x 15cm"
 gallery:
   - image: "/assets/images/gen/produktplatzierung.jpg"
+  - image: "/assets/images/gen/produktplatzierung2.jpg"
 ---
 

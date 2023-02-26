@@ -10,6 +10,7 @@ categories: []
 format: "Installation"
 gallery:
   - image: "/assets/images/gen/piss-man.jpg"
+  - image: "/assets/images/gen/piss-man2.jpg"
 ---
 
 Ein pissendes Männlein aus der Zukunft. Vermutlich aus dem Jahr 2046.
