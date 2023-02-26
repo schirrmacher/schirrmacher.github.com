@@ -1,6 +1,6 @@
 ---
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
-title: "Linda"
+title: "Produktplatzierung"
 description: false
 year: 2020
 weight: 3
