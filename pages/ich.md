@@ -13,5 +13,5 @@ Seit ich denken kann schaffe ich Dinge in verschiedensten Formen. Artikel, Tonsp
 
 Ich springe zwischen Abstraktion und Realismus. Zwischen Akkuratheit und Chaos. Vermische die kontextuelle Welt der Gemälde mit der realen Welt. Kombiniere rationale Methoden mit emotionalen Methoden. Ich kritisiere und bewundere. Meine Werke sind binär.
 
-Nach meiner ersten Ausstellung im Jahr 2023 habe ich angefangen erste Installationen zu fertigen. Kunst gibt mir Freiheit. Sie hilft mir aus Strukturen auszubrechen. Kunst ermöglicht es Innovation, Ästhetik und Reflexion in Einklang zu bringen.
+Kunst gibt mir Freiheit. Sie hilft mir aus Strukturen auszubrechen. Kunst ermöglicht es Innovation, Ästhetik und Reflexion zu vereinen.
 
