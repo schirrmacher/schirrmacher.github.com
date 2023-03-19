@@ -12,4 +12,4 @@ gallery:
   - image: "/assets/images/gen/situation.jpg"
 ---
 
-Mit diesem Bild habe ich eine Erkenntnis verarbeitet. Es beschreibt eine Ausgangssituation.
+Mit diesem Bild habe ich eine Erkenntnis verarbeitet. Es beschreibt ein Gedankenexperiment. Was sind deine Träume? Was sind deine Sehnsüchte? Wie kannst du dich diesen annähern? Du bist im Hier und Jetzt.
