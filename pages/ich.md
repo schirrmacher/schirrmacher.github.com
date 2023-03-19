@@ -15,6 +15,6 @@ Kunst gibt mir Freiheit. Sie hilft mir aus Strukturen auszubrechen. Kunst ermög
 
 Seit dem Jahr 2018 beschäftige ich mich mit der Malerei. In meinen Bildern springe ich zwischen Abstraktion und Realismus. Zwischen Akkuratheit und Chaos. Vermische die kontextuelle Welt der Gemälde mit der realen Welt. Kombiniere rationale Methoden mit emotionalen Methoden. Ich kritisiere und bewundere.
 
-Seit dem Jahr 2023 arbeite ich auch an Installationen, die sich mit gesellschaftlichen Themen auseinandersetzten.
+Seit dem Jahr 2023 arbeite ich an Installationen, die sich mit gesellschaftlichen Themen auseinandersetzten.
 
 ![](/assets/images/gen/ich.jpg)
