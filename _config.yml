@@ -17,33 +17,15 @@ paginate: 12
 paginate_path: "/dinge"
 
 collections:
-  dinge:
+  anfang:
+    output: true
+    permalink: /dinge/:path/
+  neu:
     output: true
     permalink: /dinge/:path/
   ausstellungen:
     output: true
     permalink: /ausstellungen/:path/
-
-defaults:
-  - scope:
-      path: ""
-      type: dinge
-    values:
-      layout: project
-  - scope:
-      path: "ausstellungen"
-      type: ausstellungen
-    values:
-      layout: post
-      weight: 0
-  - scope:
-      path: "images"
-    values:
-      image: true
-  - scope:
-      path: "pages"
-    values:
-      permalink: /:basename/
 
 # SCSS
 sass:

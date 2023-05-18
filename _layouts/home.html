@@ -16,41 +16,44 @@ body_classes: page-home
   </div>
 </div>
 
-{% assign cards = site.dinge %}
-{% if cards.size > 0 %}
-<div class="section pt-0">
-  <div class="container">
-    <div class="row">
-     
-      {% for card in cards limit: limit %}
-      <div
-        class="col-12 col-md-6 mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
-        {% include theme/cards/card-project.html
-        title=card.title
-        description=card.description
-        thumbnail=card.thumbnail
-        categories=card.categories
-        year=card.year
-        url=card.url
-        format=card.format
-        %}
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-{% endif %}
 
-{% if site.mailchimp.form_action_url %}
-{% if page.subscribe %}
-  <div class="section bg-base-bg-2">
+{% for category in page.categories %}
+  
+  {% assign cards = site[category] %}
+  {% if cards.size > 0 %}
+  <div class="section pt-0">
     <div class="container">
       <div class="row">
-        <div class="col-12"></div>
-        {% include framework/blocks/components/subscribe.html %}
+        <div class="col-12">
+          {% assign section = page.category_titles[forloop.index0] %}
+          {% include framework/blocks/sections/heading.html
+            subtitle=section
+          %}
         </div>
       </div>
     </div>
+    <div class="container">
+      <div class="row">
+      
+        {% for card in cards limit: limit %}
+        <div
+          class="col-12 col-md-6 mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
+          {% include theme/cards/card-project.html
+          title=card.title
+          description=card.description
+          thumbnail=card.thumbnail
+          categories=card.categories
+          year=card.year
+          url=card.url
+          format=card.format
+          %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
   </div>
-{% endif %}
-{% endif %}
+  {% endif %}
+{% endfor %}
+
+
+
