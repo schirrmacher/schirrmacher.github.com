@@ -48,13 +48,13 @@ category_dir: category
 
 colors:
   #light-mode colors
-  primary: "#0d042b"
-  primary_2: "#0d042b"
+  primary: "#190075"
+  primary_2: "#190075"
   primary_text: "#fdfcf9"
   background: "#dbdbdb"
   background_2: "#dbdbdb"
   background_3: "#dbdbdb"
-  text: "#0d042b"
+  text: "#190075"
   text_2: "#3b364c"
 
   # dark-mode colors

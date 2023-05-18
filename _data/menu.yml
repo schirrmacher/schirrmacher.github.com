@@ -9,13 +9,6 @@ main:
     url: /ichichichichichichichichichich/
     weight: 3
   - name: Kontakt
-    url: /kontakt/
-    weight: 4
-
-footer_secondary:
-  - name: "ich ich ich"
-    url: /ichichichichichichichichichich/
-    weight: 3
-  - name: Kontaktaufnahme
     url: /contact/
     weight: 4
+
