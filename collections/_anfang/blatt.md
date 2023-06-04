@@ -12,5 +12,3 @@ gallery:
   - image: "/assets/images/gen/blatt.jpg"
   - image: "/assets/images/gen/blatt2.jpg"
 ---
-
-Einfach nur ein grünes Blatt.

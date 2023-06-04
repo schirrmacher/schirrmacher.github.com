@@ -13,4 +13,4 @@ gallery:
   - image: "/assets/images/gen/nature-morte2.jpg"
 ---
 
-Dieses Bild habe ich über mehrere Monate geplant. Es finden sich zahlreiche Techniken vergangener Werke wieder. Manche der Elemente habe ich mit 3D-Modellen konstruiert.
+Dieses Bild habe ich über mehrere Monate geplant. Es finden sich zahlreiche Techniken vergangener Werke wieder. Manche Elemente habe ich mit 3D-Modellen konstruiert.

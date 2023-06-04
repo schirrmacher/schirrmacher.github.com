@@ -11,5 +11,3 @@ format: "Installation 100 x 200cm"
 gallery:
   - image: "/assets/images/gen/tot.jpg"
 ---
-
-Schöne goldene Ballons

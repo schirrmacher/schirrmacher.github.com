@@ -13,4 +13,4 @@ gallery:
   - image: "/assets/images/gen/gier2.jpg"
 ---
 
-Ich habe mich wochenlang mit dem Thema *Gier* beschäftigt. Dieses Bild ist daraus entstanden. Es zeigt einen Sog einer schimmernden Flüssigkeit die von einem markanten geradlinigen Strich ausgeht. Die Flüssigkeit habe ich mit einem 3D-Programm simuliert.
+Ich habe mich mehrere Monate mit dem Thema *Gier* beschäftigt. Dieses Bild ist daraus entstanden. Die Flüssigkeit habe ich mit einem 3D-Programm simuliert.

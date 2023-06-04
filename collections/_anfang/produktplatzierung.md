@@ -12,5 +12,3 @@ gallery:
   - image: "/assets/images/gen/produktplatzierung.jpg"
   - image: "/assets/images/gen/produktplatzierung2.jpg"
 ---
-
-Ein Produkt. Es will sich zeigen. Es will gesehen werden.

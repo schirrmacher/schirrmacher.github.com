@@ -11,5 +11,3 @@ format: "Öl auf Leinwand 100 x 70cm"
 gallery:
   - image: "/assets/images/gen/eis.jpg"
 ---
-
-Die Form habe ich über mehrere Wochen entwickelt. Initial  sollte das Eis eine digitale Grafik werden. Dann habe ich ein Gemälde daraus gemacht.

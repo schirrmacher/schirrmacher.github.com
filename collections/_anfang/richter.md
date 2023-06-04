@@ -13,4 +13,4 @@ gallery:
   - image: "/assets/images/gen/richter2.jpg"
 ---
 
-Mein erstes Porträt. Es zeigt Tobias Richter. Orientiert an einem Foto das ich in der Nacht von ihm geschossen habe.
+Mein erstes Porträt. Orientiert an einem Foto das ich in der Nacht geschossen habe.

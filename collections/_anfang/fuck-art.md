@@ -1,6 +1,6 @@
 ---
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
-title: "Fuck Art - Save the Planet"
+title: "Fuck Art"
 description: false
 year: 2023
 weight: 3
